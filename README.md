@@ -135,7 +135,7 @@ Key performance indicators:
 |------|------|------|------|
 | Sharpe Ratio | 1.959 | 0.743 | 0.698 |
 | Sortino Ratio | 6.345 | 1.051 | 0.965 |
-| Annual Return | 6.919% | 0.103% | 0.116% |
+| Annual Return | 6.919 | 0.103 | 0.116 |
 
 While the strategy achieves strong returns and risk-adjusted performance, it also exhibits **higher volatility and drawdowns**, suggesting that the strategy may capture speculative or demand-driven dynamics.
 
